@@ -486,7 +486,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,10 +5016,20 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
+
+#breyanna-vass-cover {
+  background-image: url(http://i.imgur.com/bqRvRlx.png);
+}
+
+#breyanna-vass-card{
+  background-image: url(http://i.imgur.com/fujCgWp.jpg);
+}
+
+
 
 .view-profile-div {
   position: absolute;
